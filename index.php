@@ -9,6 +9,9 @@
 
 
 <div id="section-1">
+  <div id="social-media">
+  Instagram Facebook Linkedin
+  </div>
 
 <div class="container">
 
@@ -32,7 +35,7 @@
           <a class="nav-link" href="#">Kopen</a>
         </li>
         <li class="nav-item me-5">
-          <a class="nav-link" href="#">Hure</a>
+          <a class="nav-link" href="#">Huren</a>
         </li>
         <li class="nav-item me-5">
           <a class="nav-link" href="#">Nieuws</a>
@@ -59,24 +62,28 @@
     </div>
     </div>
     <div class="col-sm">
-          <p id="text-color-white2">
-            <img src="btnplay.png" id="playbuton">
-            Bekijk de film
-            </p>
+    <img src="btnplay.png" id="playbuton">
+        <p id="text-color-white2">Bekjik de film</p>
+</p>
+      
     </div>
   </div>
 </div>
-
 </div>
-<div class="rowtitle">
-Duurzame materialen <br>
-</div>
-<div class="rowbloc">
+<div class="row">
+<div class="col-sm-12 col-md-4">
+Duurzame materialen
 <p>
 Alle EcoCabins hebben een hoge isolatiewaarde, <br> worden geproduceerd met indien mogelijk duurzame<br> en/of natuurlijke materialen en hebben als <br>opvallende uiterlijke kenmerk de ‘ronde hoeken’,<br> mogelijk gemaakt door het specifieke <br>materiaalgebruik.</p>
-<div class="Lees meer">
+<button class="lees-meer" type="button">
   Lees meer
+</button>
 </div>
+
+</div>
+</div>
+</div>
+
 
 
 
