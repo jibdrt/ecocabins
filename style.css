@@ -56,9 +56,9 @@ font-family: fantasy;
     color: white;
     margin-top: 1pt ;
     margin-left: 15pt;
-    font-family: 'Merriweather-Black';
+    font-family: 'Merriweather';
     font-size: 40px;
-    line-height: 40px;
+    line-height: 50px;
 }
 
 #playbuton{
@@ -174,14 +174,17 @@ font-family: 'Rubik-Bold'
     font-family: 'Rubik-Medium';
     font-weight: 500;
     color:#606B74;
+    line-height: 30px;
 }
 
 
-*{
-    border:red dotted 1px;
-}
+
 
 .col-sm-4{
     margin-left: 180px;
     padding-top: 62px;
+}
+
+#poutre{
+    width: 550px;
 }
