@@ -66,19 +66,19 @@
     </div>
     </div>
     <div class="col-sm">
-    <img src="btnplay.png" id="playbuton">
-        <p id="text-color-white2">Bekjik de film</p>
-</p>
+      <div class="bdf">
+    <p id="text-color-white2"><img src="btnplay.png" id="playbuton">Bekjik de film</p>
+</div>
       
     </div>
   </div>
 </div>
 </div>
 <div class="row">
-<div class="col-sm-12 col-md-4">
-Duurzame materialen
-<p>
-Alle EcoCabins hebben een hoge isolatiewaarde, <br> worden geproduceerd met indien mogelijk duurzame<br> en/of natuurlijke materialen en hebben als <br>opvallende uiterlijke kenmerk de ‘ronde hoeken’,<br> mogelijk gemaakt door het specifieke <br>materiaalgebruik.</p>
+<div class="col-sm-4">
+<p id="duurzame">Duurzame materialen</p>
+<p id="alleecocabins">
+Alle EcoCabins hebben een hoge isolatiewaarde, worden<br> geproduceerd met indien mogelijk duurzame en/of<br> natuurlijke materialen en hebben als opvallende uiterlijke<br> kenmerk de ‘ronde hoeken’,<br> mogelijk gemaakt door het <br>specifieke materiaalgebruik. De voordelen van bouwen met<br> hout zijn legio: hout is licht, flexibel, isoleert goed en bouwt<br> snel en efficient.</p>
 <button class="lees-meer" type="button">
   Lees meer
 </button>
