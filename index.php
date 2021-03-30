@@ -75,10 +75,10 @@
 </div>
 </div>
 <div class="row">
-      <div class="col-sm-4">
+      <div class="col-sm-12 col-md-4">
         <p id="duurzame">Duurzame materialen</p>
         <p id="alleecocabins">
-          Alle EcoCabins hebben een hoge isolatiewaarde, worden<br> geproduceerd met indien mogelijk duurzame en/of<br> natuurlijke materialen en hebben als opvallende uiterlijke<br> kenmerk de ‘ronde hoeken', mogelijk gemaakt door het <br>specifieke materiaalgebruik. De voordelen van bouwen met<br> hout zijn legio: hout is licht, flexibel, isoleert goed en bouwt<br> snel en efficient.</p>
+          Alle EcoCabins hebben een hoge isolatiewaarde, worden<br> geproduceerd met indien mogelijk duurzame en/of<br> natuurlijke materialen en hebben als opvallende uiterlijke<br> kenmerk de ‘ronde hoeken', mogelijk gemaakt door het <br>specifieke materiaalgebruik. De voordelen van bouwen met hout zijn legio: hout is licht, flexibel, isoleert goed en bouwt snel en efficient.</p>
           <button class="lees-meer" type="button">
           Lees meer
           </button>
@@ -89,6 +89,18 @@
 </div>
 </div>
 </div>
+<div class="container">
+      <div class="row">
+          <div class="col-sm-12 col-md-12 .bg-dark"></div>
+</div>
+
+
+</div>
+
+<div class="container">
+<div class="row bg-dark pt-5 mt-5">
+    <div class="col-sm-12 col-md-6 bg-dark"></div></div>
+  
 
 
 
