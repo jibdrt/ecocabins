@@ -107,17 +107,6 @@ font-family: fantasy;
 
 
 
-#social-media{
-    float: right;
-    writing-mode: vertical-lr;
-    text-orientation: sideways;
-    margin: 50px;
-    color: #FFFFFF;
-    word-spacing: 50px;
-    margin-top: 230px;
-    font-family: 'Rubik-Bold';
-    
-}
 
 
 .navbar-nav{
@@ -145,3 +134,17 @@ font-family: 'Rubik-Bold'
     
 }
 
+
+.col-sm-1{
+    writing-mode: vertical-lr;
+    margin-left: 200px;
+    margin-top: 200px;
+    position:absolute;
+    word-spacing: 50px;
+    color: white;
+    font-family: 'Rubik-Bold';
+}
+
+.col-sm-1:hover{
+    transform: scale(1.1);
+}

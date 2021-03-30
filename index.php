@@ -9,11 +9,15 @@
 
 
 <div id="section-1">
-  <div id="social-media">
-  Instagram Facebook Linkedin
-  </div>
+        
+
+<div class="row justify-content-end">
+              <div class="col-sm-1">Instagram Facebook Linkedin</div>
+        </div>
 
 <div class="container">
+
+
 
    <!-- début de la nav -->
    <nav class="navbar navbar-expand-lg navbar-dark container-fluid pb-5">
