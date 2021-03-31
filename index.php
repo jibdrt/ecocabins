@@ -128,10 +128,10 @@
 
 
 
-<div class="container">
-  <div class="row pt-5">
-    <div class="col-sm-12 col-md-6 ml-5">
-      <img src="cabpage.png" id="cabpage">
+<div class="container pt-5 mt-5">
+  <div class="row pt-4 ps-3 pb-5 mb-5">
+    <div class="col-sm-12 col-md-6 ps-5">
+      <div class="ps-5 ms-4" id="cabpaged"><img src="cabpage.png"></div>
     </div>
     <div class="col-sm-12 col-md-6">
       <div class="row">
@@ -176,27 +176,16 @@
 
 <!-- row de fin de page -->
 <div class="container">
-<div class="row">
-    <div class="col-sm-12 col-md-6">
-      Jean-Baptiste
+<div class="row bg-dark text-white pb-3 pt-3">
+    <div class="col-sm-12 col-md-3 pt-3">
+    info@eco-cabins.com
     </div>
-    <div class="col-sm-12 col-md-6">
-      <div class="row">
-      <div class="col-sm-12 col-md-6">
-      Chloé
+    <div class="col-sm-12 col-md-4 pt-3 ps-3">
+    <img src="EcoCabins-white.png" id="logofooter">
     </div>
-    <div class="col-sm-12 col-md-6">
-      Hervé
+    <div class="col-sm-12 col-md-3 text-end ms-5 pt-3">
+    Cookies Privacy beleid
     </div>
-    <div class="col-sm-12 col-md-6">
-      Nathan
-    </div>
-    <div class="col-sm-12 col-md-6">
-      Williams
-    </div>
-      </div>
-    </div>
-    
   </div>
 </div>
 </div>
