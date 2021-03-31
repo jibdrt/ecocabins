@@ -18,7 +18,7 @@ font-family: fantasy;
 }
 
 #section-1{
-    height: 100vh;
+    height: 90vh;
     width: 100%;
     background-image: url("row1.png");
     background-size: cover;
@@ -70,6 +70,10 @@ font-family: fantasy;
     
     vertical-align: middle;
     
+}
+
+#playbuton:hover{
+        transform: scale(1.2);
 }
 
 #text-color-white2{
@@ -199,6 +203,14 @@ font-family: 'Rubik-Bold'
     background-color: white;
 }
 
+#poutre:hover{
+
+
+
+}
+
+
+
 
 
 
@@ -215,6 +227,7 @@ font-family: 'Rubik-Bold'
 .textinnovatie{
     font-family: 'Rubik-Medium';
     font-weight: 200;
+    color:#646d70;
 }
 
 
@@ -243,3 +256,18 @@ box-shadow: 8px 8px 12px #606B74;
     margin-left: 100px;
 }
 
+#infocontact{
+    color: #646d70;
+}
+
+#infocontact:hover{
+    color:white;
+}
+
+#cookiesplus{
+    color:#646d70;
+}
+
+#cookiesplus:hover{
+    color: white;
+}

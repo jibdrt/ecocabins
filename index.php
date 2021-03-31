@@ -177,14 +177,14 @@
 <!-- row de fin de page -->
 <div class="container">
 <div class="row bg-dark text-white pb-3 pt-3">
-    <div class="col-sm-12 col-md-3 pt-3">
+    <div class="col-sm-12 col-md-3 pt-3" id="infocontact">
     info@eco-cabins.com
     </div>
     <div class="col-sm-12 col-md-4 pt-3 ps-3">
     <img src="EcoCabins-white.png" id="logofooter">
     </div>
-    <div class="col-sm-12 col-md-3 text-end ms-5 pt-3">
-    Cookies Privacy beleid
+    <div class="col-sm-12 col-md-3 text-end ms-5 pt-3" id="cookiesplus">
+    Cookies Privacybeleid
     </div>
   </div>
 </div>
