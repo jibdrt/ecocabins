@@ -76,7 +76,7 @@
 </div>
 <div class="row">
       <div class="col-sm-12 col-md-4">
-        <p id="duurzame">Duurzame materialen</p>
+        <h2 id="duurzame">Duurzame materialen</h2>
         <p id="alleecocabins">
           Alle EcoCabins hebben een hoge isolatiewaarde, worden<br> geproduceerd met indien mogelijk duurzame en/of<br> natuurlijke materialen en hebben als opvallende uiterlijke<br> kenmerk de ‘ronde hoeken', mogelijk gemaakt door het <br>specifieke materiaalgebruik. De voordelen van bouwen met hout zijn legio: hout is licht, flexibel, isoleert goed en bouwt snel en efficient.</p>
           <button class="lees-meer" type="button">
@@ -98,15 +98,84 @@
 </div>
 
 <div class="container">
-<div class="row bg-dark pt-5 mt-5">
-    <div class="col-sm-12 col-md-6 bg-dark"></div></div>
+<div class="row bg-dark pt-5 mt-5 mr-ml-5">
+    <div class="col-sm-12 col-md-4 bg-dark text-white pb-5 pt-2">
+    <div class="row" id="innovatie">
+      <h1>Innovatie</h1></div>
+      <div class="textinnovatie">Wij hebben als doel om de EcoCabins voortdurend verder te ontwikkelen en innoveren, zodat de EcoCabins uiteindelijk 100% duurzaam en circulair zijn. Voorwaarde hierbij is dat de EcoCabins betaalbaar blijven. Met behulp van de zon, de wind en de beste isolatie geniet u van.</div>
+    </div>
+
+
+
+
+
+    <div class="col-sm-12 col-md-4 bg-dark text-white">
+      <div class="textinnovatie">Alle EcoCabins hebben een hoge isolatiewaarde, worden geproduceerd met indien mogelijk duurzame en/of natuurlijke materialen en hebben als opvallende uiterlijke kenmerk de ‘ronde hoeken’, mogelijk gemaakt door het specifieke materiaalgebruik De voordelen van bouwen.</div>
+    </div>
+  </div>
+
+
+
+   
+    
+
+  </div>
   
 
 
 
+  </div>
 
+
+
+<div class="container">
+  <div class="row pt-5">
+    <div class="col-sm-12 col-md-6 ml-5">
+      <img src="cabpage.png" id="cabpage">
+    </div>
+    <div class="col-sm-12 col-md-6">
+      <div class="row">
+      <div class="col-sm-12 col-md-5">
+        <h2>Hout</h2>
+        <p>De draagconstructies van EcoCabins bestaan uit hout. Hout is duurzaam en.</p>
+      </div>
+      <div class="col-sm-12 col-md-5">
+        <h2>Glaswol isolatie</h2>
+        <p>De combinatie van glaswol met een houtskelet constructie geeft een.</p>
+      </div>
+      <div class="col-sm-12 col-md-5">
+        <h2>Afwerking</h2>
+        <p>De draagconstructies van EcoCabins bestaan uit hout. Hout is duurzaam en.</p>
+      </div>
+      <div class="col-sm-12 col-md-5">
+      <h2>Triple gas</h2>
+      <p>De combinatie van glaswol met een houtskelet constructie geeft een.</p>
+      </div>
+      <div class="col-sm-12 col-md-5">
+       <h2> Stalen onderstel</h2>
+       <p>Het stalen onderstel is sterk zijn en heeft de benodigde stijfheid die.</p>
+      </div>
+      <div class="col-sm-12 col-md-5">
+        <h2>Infrarood vloer</h2>
+        <p>De vloer wordt opgewarmd middels opgewekte warmte uit eigen zonne-energie.</p>
+      </div>
+        </div>
+      </div>
+              
+
+
+
+
+
+
+
+
+
+  </div>
+</div>
 
 <!-- row de fin de page -->
+<div class="container">
 <div class="row">
     <div class="col-sm-12 col-md-6">
       Jean-Baptiste
@@ -129,6 +198,7 @@
     </div>
     
   </div>
+</div>
 </div>
 <!-- row de fin de page -->
 

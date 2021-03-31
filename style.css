@@ -206,3 +206,24 @@ font-family: 'Rubik-Bold'
     width: fit-content;
     
 }
+
+
+#innovatie{
+    font-family: 'Merriweather';
+}
+
+.textinnovatie{
+    font-family: 'Rubik-Medium';
+    font-weight: 200;
+}
+
+
+h2{
+    font-family: 'Merriweather';
+    font-size: 20px;
+}
+
+p{
+    font-family: 'Rubik-Medium';
+    color: #646d70;
+}
