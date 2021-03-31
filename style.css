@@ -232,6 +232,7 @@ p{
     
 width: 420px;
 align-content: center;
+box-shadow: 8px 8px 12px #606B74;
 
 }
 
@@ -241,3 +242,4 @@ align-content: center;
     width: 180px;
     margin-left: 100px;
 }
+
