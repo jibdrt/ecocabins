@@ -86,6 +86,7 @@
       <div class="col-md-6"><img src="Poutres.png" id="poutre"></div>
 </div>
 
+
 </div>
 </div>
 </div>
@@ -97,9 +98,9 @@
 
 </div>
 
-<div class="container">
-<div class="row bg-dark pt-5 mt-5 mr-ml-5">
-    <div class="col-sm-12 col-md-4 bg-dark text-white pb-5 pt-2">
+<div class="container" id="bg-test">
+<div class="row pt-5 mt-5 mr-ml-5">
+    <div class="col-sm-12 col-md-4 text-white pb-5 pt-2">
     <div class="row pb-5" id="innovatie">
       <h1>Innovatie</h1></div>
       <div class="textinnovatie pb-5">Wij hebben als doel om de EcoCabins voortdurend verder te ontwikkelen en innoveren, zodat de EcoCabins uiteindelijk 100% duurzaam en circulair zijn. Voorwaarde hierbij is dat de EcoCabins betaalbaar blijven. Met behulp van de zon, de wind en de beste isolatie geniet u van.</div>
@@ -109,8 +110,8 @@
 
 
 
-    <div class="col-sm-12 col-md-4 bg-dark text-white">
-      <div class="textinnovatie pt-5">Alle EcoCabins hebben een hoge isolatiewaarde, worden geproduceerd met indien mogelijk duurzame en/of natuurlijke materialen en hebben als opvallende uiterlijke kenmerk de ‘ronde hoeken’, mogelijk gemaakt door het specifieke materiaalgebruik De voordelen van bouwen.</div>
+    <div class="col-sm-12 col-md-4 text-white">
+      <div class="textinnovatie pt-1">Alle EcoCabins hebben een hoge isolatiewaarde, worden geproduceerd met indien mogelijk duurzame en/of natuurlijke materialen en hebben als opvallende uiterlijke kenmerk de ‘ronde hoeken’, mogelijk gemaakt door het specifieke materiaalgebruik De voordelen van bouwen.</div>
     </div>
   </div>
 
@@ -175,8 +176,8 @@
 </div>
 
 <!-- row de fin de page -->
-<div class="container">
-<div class="row bg-dark text-white pb-3 pt-3">
+<div class="container" id="bg-test">
+<div class="row text-white pb-3 pt-3">
     <div class="col-sm-12 col-md-3 pt-3" id="infocontact">
     info@eco-cabins.com
     </div>
