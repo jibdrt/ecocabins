@@ -12,7 +12,11 @@
         
 
 <div class="row justify-content-end">
-              <div class="col-sm-1">Instagram Facebook Linkedin</div>
+              <div id="social-network" class="col-sm-1">
+                <span class="social-network-pointer">Instagram</span> 
+                <span class="social-network-pointer">Facebook</span>
+                <span class="social-network-pointer">Linkedin</span>   
+              </div>
         </div>
 
 <div class="container">
@@ -99,7 +103,7 @@
 </div>
 
 <div class="container" id="bg-test">
-<div class="row pt-5 mt-5 mr-ml-5">
+<div class="row row-sm-12 pt-5 mt-5 mr-ml-5">
     <div class="col-sm-12 col-md-4 text-white pb-5 pt-2">
     <div class="row pb-5" id="innovatie">
       <h1>Innovatie</h1></div>
